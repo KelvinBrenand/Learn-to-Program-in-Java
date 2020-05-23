@@ -79,15 +79,15 @@ Now that we know the results, it’s time to decide who the winner is!
 
 Inside your if/else statement that prints out odd or even you are going to add another set of if/else statements to tell who the winner is, based on what the player chose back in stage 1. Here is some "pseudo code" (notation resembling simplified code, not real code) that you can use to write the real code.
 
-if (the sum was even) {
-   print out even
-   if (the user chose evens) {
-      the user wins
-   } else {
-      the computer wins
-} else {
-   // inverse of above if statement
-}
+    if (the sum was even) {
+       print out even
+       if (the user chose evens) {
+          the user wins
+       } else {
+          the computer wins
+    } else {
+       // inverse of above if statement
+    }
 Here is an example of what the output of your stage three should produce:
 
 ![](/Images/3-part3Output.png)
